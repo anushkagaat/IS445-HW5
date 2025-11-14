@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Homework 5 – Temperature of Bigfoot Sightings"
+title: "Homework 5"
 permalink: /homework5/
 ---
 
