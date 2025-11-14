@@ -1,0 +1,12 @@
+---
+---
+
+@import "minima";
+
+.page-content, .wrapper {
+  max-width: 1200px !important;   /* Increase page width */
+}
+
+iframe {
+  max-width: 100%;
+}

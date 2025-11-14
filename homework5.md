@@ -23,7 +23,7 @@ In the first plot, I visualize the relationship between the **year** of each Big
 
 ## Plot 2 – Yearly Temperature Summary Statistics (Interactive)
 
-<div style="width:100%; max-width:700px; margin: 1rem 0;">
+<div style="width:100%; max-width:1000px; margin: 1rem 0;">
   <iframe
     src="/IS445-HW5/assets/hw5_temp_stats.html"
     width="100%"
