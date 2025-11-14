@@ -26,7 +26,7 @@ In the first plot, I visualize the relationship between the **year** of each Big
 <div style="width:100%; max-width:900px; margin: 1rem 0;">
   <iframe
     src="/IS445-HW5/assets/hw5_temp_stats.html"
-    width="100%"
+    width="90%"
     height="500"
     style="border:none;"
   ></iframe>
