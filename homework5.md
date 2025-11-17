@@ -36,6 +36,7 @@ Overall, this visualization helps illustrate whether Bigfoot sightings tend to o
   ></iframe>
 </div>
 
+ ---
 For this visualization, I compute yearly summary statistics of the UV Index to examine how environmental conditions during Bigfoot sightings change over time. After extracting the year from the date field and filtering the data to include sightings from 1970 onward, I grouped the dataset by year and used describe() to calculate metrics such as count, mean, min, max, standard deviation, and quartiles. These values were reshaped into a long format with columns for year, statistic, and value, and zero values were replaced with NaN to avoid misleading dips. The chart uses year on the x-axis and the statistic value on the y-axis, with each statistic drawn as a separate line and color used to distinguish them. Plotting all statistics together makes it easy to compare how typical UV levels (e.g., the median and quartiles) relate to extremes and annual sighting counts, highlighting strong fluctuations in maximum UV Index values over time while most other metrics remain relatively stable.
 ---
 
