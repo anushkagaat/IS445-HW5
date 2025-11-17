@@ -6,7 +6,7 @@ permalink: /homework5/
 
 <div class="analysis-buttons" style="margin-bottom: 1.5rem;">
   <a class="btn" href="https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_data/main/bfro_reports_fall2022.csv" target="_blank" style="display:inline-block;padding:0.5rem 1rem;margin-right:0.5rem;border-radius:4px;border:1px solid #444;text-decoration:none;">DATA</a>
-  <a class="btn" href="https://colab.research.google.com/drive/1WyCQaTWW2_hIhGeSMKQ9ttv8vM_vEwdJ?usp=sharing" target="_blank" style="display:inline-block;padding:0.5rem 1rem;border-radius:4px;border:1px solid #444;text-decoration:none;">ANALYSIS</a>
+  <a class="btn" href="https://colab.research.google.com/drive/1TLYlsMkoMessy2QUQR9cEbo68HKjBcGn?usp=sharing" target="_blank" style="display:inline-block;padding:0.5rem 1rem;border-radius:4px;border:1px solid #444;text-decoration:none;">ANALYSIS</a>
 </div>
 
 The dataset used here comes from the Bigfoot Field Researchers Organization (BFRO) reports and includes information about each reported sighting (date, location, classification) along with weather variables such as temperature, humidity, and wind speed. In this assignment I focused on the mid-temperature at the time of each sighting and how it changes over time.
